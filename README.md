@@ -10,4 +10,6 @@ A simple and intuitive Todo App built with React.js and deployed on Vercel. Easi
 🌙 Light/Dark mode (if applicable)
 🛠️ Tech Stack
 Frontend: React.js, Tailwind CSS (if used)
-Deployment: Vercel![Screenshot (22)](https://github.com/user-attachments/assets/a8c5ab77-6ae9-4e69-94e3-c6072c12888c)
+
+![screencapture-todo-app-eta-coral-vercel-app-2025-03-10-13_45_44](https://github.com/user-attachments/assets/61eadfd7-9861-4c53-ad1f-e0cd2ede417b)
+
