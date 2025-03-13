@@ -7,7 +7,6 @@ A simple and intuitive Todo App built with React.js and deployed on Vercel. Easi
 ✅ Add new tasks
 ✏️ Edit existing tasks
 🗑️ Delete tasks
-🌙 Light/Dark mode (if applicable)
 🛠️ Tech Stack
 Frontend: React.js, Tailwind CSS (if used)
 
